@@ -1,3 +1,13 @@
+Raul Olivares - Raul_Olivares@student.uml.edu
+
+Nicholas Miceli - Nicholas_Miceli@student.uml.edu
+
+Muntaqim Ahmed Raju - MuntaqimAhmed_Raju@student.uml.edu
+
+Priyanka Siddappa - Priyanka_Siddappa@student.uml.edu
+
+Kush Patel - Kush_Patel3@student.uml.edu
+
 # Abstract
 
 Cardiotocography (CTG) is a technique used for data collection in fetal health. It is employed to analyze the health of a
